@@ -1,3 +1,4 @@
-Hello Worldcat README.mdcat README.md
-Let us update this file
---Now edited this file in github server itself
+What is the difference between add, commit, and push?
+Add = to put modified/new files to staging (local)
+Commit = to put all staged files to a single commit hash (now in local/online repo)
+Push = to put the committed objects to the online repo
